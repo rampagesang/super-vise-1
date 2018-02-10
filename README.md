@@ -2,10 +2,11 @@
 
 As this is project week, we have created a SUPER-VISE, a management app that would track, manage, and scale your company
 
-There’s no room for error when you need a precise picture of your company’s fixed assets. Knowing exactly what you have could save you thousands or even millions of dollars in taxes and insurance costs. Let SUPER-VISE handle outlining procedures that are proven and specialized for your industry. We at Cooding Bootcamp only provide the most effective solutions for fixed asset tracking and inventory management. Fixed Asset Inventories are a necessary step in providing extra cash flow to your organization.
+There’s no room for errors when you need a precise picture of your company’s growth. Knowing exactly what you have could save you thousands of dollars. Our application will help you organize your team for success. We at Supervise only provide the most effective solutions for tracking your inventory, sales, and employee/customer management. These are a necessary step in providing extra cash flow to you.
+
+We help you to get some weight off of your shoulder.
 
 We help you take the hassle out of Fixed Asset Tracking.
-
 
 Our team provides inventory services and reconciles all your fixed assets on site, with little or no  disruption to you and your staff.
 
